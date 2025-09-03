@@ -1,100 +1,183 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f51b5,100:9c27b0&height=200&section=header&text=Tharushi%20Navodi%20Withanachchi&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+<!-- Animated Header with Gradient -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=280&section=header&text=Tharushi%20Navodi%20Withanachchi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20IoT%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+</div>
 
-<!-- Typing intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=6A5ACD&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Front-End+Learner+%7C+C%2FC%23+Developer;Windows+Forms+%26+SQL+Server;IoT+%26+Robotics+Tinkerer;Gamer+%7C+Loves+Tech+and+Innovation" alt="typing intro" />
-</p>
-
----
-
-### 👩🏻‍💻 About Me
-I’m **Tharushi Navodi Withanachchi**, a Software Engineering student passionate about:  
-- 🤖 **IoT & Robotics** projects (Arduino, sensors, automation)  
-- 🎮 **Game-inspired coding** and playful side projects  
-- 💻 **Desktop apps** with **C# & SQL Server**  
-- 🌐 Growing into **Front-End Development** (HTML, CSS, JS, React)  
+<!-- Dynamic Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Software+Engineering+Student;💻+C%2FC%23+Developer+%7C+Windows+Forms+Expert;🌐+Front-End+Explorer+%7C+React+%26+Tailwind;🤖+IoT+%26+Robotics+Innovator;🎮+Tech+Enthusiast+%7C+Innovation+Lover" alt="Typing Animation" />
+</div>
 
 ---
 
-### 🛠 Tech Stack
+## 🌟 About Me
+
+<table>
+<tr>
+<td width="50%">
+
+### 👋 Hello there! 
+I'm **Tharushi Navodi Withanachchi**, a passionate Software Engineering student who loves turning ideas into reality through code. My journey spans from building **smart IoT systems** to crafting **elegant desktop applications**.
+
+**🎯 Current Focus:**
+- 🔧 Mastering **C# & .NET** development
+- 🌐 Exploring modern **Front-End** technologies
+- 🤖 Creating innovative **IoT & Robotics** solutions
+- 📚 Continuous learning and skill enhancement
+
+</td>
+<td width="50%">
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="300" alt="Coding GIF"/>
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 🎨 Frontend Development
 <p>
-  <!-- Frontend -->
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" />
+</p>
+
+### ⚡ Backend & Desktop
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cs,dotnet,visualstudio" />
+  <img alt="Windows Forms" src="https://img.shields.io/badge/Windows%20Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
+### 🗄️ Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+</p>
+
+### 🤖 IoT & Hardware
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" />
+  <img alt="Sensors" src="https://img.shields.io/badge/IoT%20Sensors-FF6B6B?style=for-the-badge&logo=iot&logoColor=white"/>
+  <img alt="Robotics" src="https://img.shields.io/badge/Robotics-4ECDC4?style=for-the-badge&logo=robotframework&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🤖 **Smart Lunch Box** | 💼 **Hotel Management System** | 🎮 **Mini Games Collection** |
+|:---:|:---:|:---:|
+| IoT-based monitoring system with temperature sensing, weight measurement, and real-time logging | Complete hotel management solution with reservation and payment processing | Fun coding projects exploring game logic and interactive experiences |
+| `C` `Arduino` `DS18B20` `HX711` `LCD` | `C#` `.NET` `WinForms` `SQL Server` | `Various Technologies` |
+| [🔗 View Project](#) | [🔗 View Project](#) | [🔗 View Projects](#) |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
   
-  <!-- Core / Desktop -->
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img alt="Windows Forms" src="https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9"/>
   
-  <!-- Database -->
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1"/>
   
-  <!-- Tools -->
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+---
+
+## 🤖🎮 Fun Corner
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="100"/>
+        <br><sub><b>Coding Mode</b></sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100"/>
+        <br><sub><b>Problem Solving</b></sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/TlK63EQ0BShYVW0r3Fz/giphy.gif" width="100"/>
+        <br><sub><b>Success!</b></sub>
+      </td>
+    </tr>
+  </table>
   
-  <!-- IoT & Robotics -->
-  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img alt="Robotics" src="https://img.shields.io/badge/Robotics-FF6F61?style=for-the-badge&logo=robotframework&logoColor=white"/>
-</p>
+  <div style="margin: 20px 0;">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=💭+%22Coding+feels+like+building+robots+🤖%22;🎮+%22And+playing+games+at+the+same+time!%22;✨+%22Every+bug+is+just+a+hidden+feature%22" alt="Fun Quotes" />
+  </div>
+</div>
 
 ---
 
-### 🚀 Featured Projects
-- **Smart Lunch Box (IoT + Robotics)**  
-  🤖 IoT-based system with temperature sensor, weight scale, and RTC logging.  
-  `C / Arduino · DS18B20 · HX711 · LCD`  
-  🔗 [View Project](https://github.com/YOUR_USERNAME/smart-lunch-box)  
-
-- **Hotel Management System**  
-  💻 Windows Forms + SQL Server for payments and reservations.  
-  `C# · .NET · WinForms · SQL Server`  
-  🔗 [View Project](https://github.com/YOUR_USERNAME/hotel-management-system)  
-
-- **Mini Games (Fun Projects)**  
-  🎮 Exploring coding through simple games & interactive logic projects.  
-  🔗 [View Projects](https://github.com/YOUR_USERNAME?tab=repositories)  
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&hide_border=true" />
+</div>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=false" />
-</p>
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
 
 ---
 
-### 🤖🎮 Fun Corner
-<p align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="120"/> 
-  <img src="https://media.giphy.com/media/TlK63EQ0BShYVW0r3Fz/giphy.gif" width="120"/>
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="120"/>
-</p>
-<p align="center">
-  “Coding feels like building robots 🤖 and playing games 🎮 at the same time.”
-</p>
+## 💝 Support My Work
+
+<div align="center">
+  <p>If you like my projects and want to support my journey:</p>
+  <a href="https://www.buymeacoffee.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+</div>
 
 ---
 
-### 📫 Connect with Me
-<a href="mailto:YOUR_EMAIL@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-me-3f51b5?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
+
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer" width="100%"/>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f51b5,100:9c27b0&height=120&section=footer"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=3000&pause=2000&color=6366F1&center=true&vCenter=true&width=500&lines=✨+Thanks+for+visiting+my+profile!;💫+Let's+build+something+amazing+together!" alt="Footer Message" />
+</div>
