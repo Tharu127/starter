@@ -17,7 +17,7 @@
 <td width="50%">
 
 ### 👋 Hello there! 
-I'm **Tharushi Navodi Withanachchi**, a passionate Software Engineering student who loves turning ideas into reality through code. My journey spans from building **smart IoT systems** to crafting **elegant desktop applications**.
+I'm **Tharushi**, a passionate Software Engineering student who loves turning ideas into reality through code. My journey spans from building **smart IoT systems** to crafting **elegant desktop applications**.
 
 **🎯 Current Focus:**
 - 🔧 Mastering **C# & .NET** development
@@ -168,7 +168,7 @@ I'm **Tharushi Navodi Withanachchi**, a passionate Software Engineering student 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Tharu127&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
 <!-- Animated Footer -->
@@ -179,5 +179,5 @@ I'm **Tharushi Navodi Withanachchi**, a passionate Software Engineering student 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=3000&pause=2000&color=6366F1&center=true&vCenter=true&width=500&lines=✨+Thanks+for+visiting+my+profile!;💫+Let's+build+something+amazing+together!" alt="Footer Message" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=3000&pause=2000&color=FF6B6B&center=true&vCenter=true&width=500&lines=✨+Thanks+for+visiting+my+profile!;💫+Let's+build+something+amazing+together!" alt="Footer Message" />
 </div>
